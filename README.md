@@ -23,16 +23,6 @@ The dataset has been deduplicated, organized by topic, annotated with company ta
   3. Hard
 - Further sorted by LeetCode problem ID
 
-## Dataset Columns
-
-| Column | Description |
-| Question ID | Official LeetCode problem ID |
-| Title | Problem title |
-| Difficulty | Easy / Medium / Hard |
-| Topic | Topic classification |
-| Companies | Companies where the question appears |
-| Company Count | Number of companies that asked the question |
-
 ## Features
 
 - Topic-wise organization
